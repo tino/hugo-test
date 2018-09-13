@@ -1,6 +1,8 @@
 ---
-title: "About"
-date: 2018-09-13T21:27:32+02:00
-draft: true
----
+title: About
+date: 2018-09-13 19:27:32 +0000
 
+---
+# Hi there, we are the Solar Monkeys!
+
+![](/uploads/random.jpg)
