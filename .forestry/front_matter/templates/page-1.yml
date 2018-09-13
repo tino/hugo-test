@@ -18,3 +18,5 @@ fields:
     max: '3'
   template_types:
   - product-partial
+pages:
+- content/products.md
