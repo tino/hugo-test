@@ -1,0 +1,11 @@
+---
+label: product partial
+hide_body: false
+is_partial: true
+fields:
+- type: file
+  name: product_image
+  label: product image
+- type: text
+  name: product_title
+  label: product title
