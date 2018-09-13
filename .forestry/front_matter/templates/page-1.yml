@@ -19,4 +19,5 @@ fields:
   template_types:
   - product-partial
 pages:
+- content/other-page.md
 - content/products.md
